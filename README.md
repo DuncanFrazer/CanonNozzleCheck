@@ -1,5 +1,5 @@
 # CanonNozzleCheck
-Canon MG5750 nozzle check file with automation to send once a week and exercise the heads &amp; ink tanks
+Canon MG5750 nozzle check file with automation to send once a week to prevent the inks and heads from drying up
 
 setup a cron job on a raspberry pi with
 crontab -e
